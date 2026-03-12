@@ -1,0 +1,17 @@
+index.html
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mini Brawl Game</title>
+</head>
+<body>
+
+<h1>Mein Battle Game</h1>
+
+<script>
+alert("Game loaded!");
+</script>
+
+</body>
+</html>
